@@ -1,2 +1,2 @@
 # Unityproject1
-code acceptable for hacktoberfest2021
+code acceptable for Hacktoberfest2021
